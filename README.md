@@ -26,7 +26,7 @@ In the gatsby-config.js for your site add @raae/gatsby-plugin-svg-emoji-favicon 
 module.exports = {
   plugins: [
     {
-      resolve: "@raae/gatsby-plugin-starter",
+      resolve: "@raae/gatsby-plugin-svg-emoji-favicon",
       options: {
         emoji: "🥳",
       },
