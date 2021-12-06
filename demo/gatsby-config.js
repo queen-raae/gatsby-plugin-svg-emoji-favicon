@@ -3,7 +3,7 @@ module.exports = {
     {
       resolve: "@raae/gatsby-plugin-starter",
       options: {
-        emoji: "😎",
+        emoji: "🥳",
       },
     },
   ],
