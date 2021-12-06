@@ -1,6 +1,6 @@
 # @raae/gatsby-plugin-svg-emoji-favicon
 
-> Amazing plugin that solves everything
+> Use an emoji as your sites favicon
 
 ## A message from Queen [@raae](https://twitter.com/raae)
 
@@ -16,42 +16,33 @@ or
 
 ## How to use
 
+In the gatsby-config.js for your site add @raae/gatsby-plugin-svg-emoji-favicon to the plugins array making sure to add an emoji.
+
 ```
+// gatsby-config.js
+
 module.exports = {
   plugins: [
-    `@raae/gatsby-plugin-svg-emoji-favicon`
+    {
+      resolve: "@raae/gatsby-plugin-starter",
+      options: {
+        emoji: "🥳",
+      },
+    },
   ],
-}
+};
 ```
 
-## How to contribute with code
+## How to contribute
 
-### Getting started
+### With Code
 
-- Fork the repo
-- Clone your fork
-- Install the packages: `yarn install`
-- Run the demo: `yarn develop`
+Take a look at [CONTRIBUTING.md](https://github.com/queen-raae/gatsby-plugin-let-it-snow/blob/main/CONTRIBUTING.md).
 
-To be able to have both the demo and plugin in the same repo we use [yarn workspaces](https://classic.yarnpkg.com/lang/en/docs/workspaces/).
-
-- Plugin code is in the `/plugin` folder,
-- and the demo code is in the `/demo` folder.
-
-### Do your thing
-
-Solve an [issue](https://github.com/queen-raae/gatsby-plugin-svg-emoji-favicon/issues) or do something else!
-
-### Create a Pull Request
-
-To get your changes merged into the project create a Pull Request from your fork.
-
-## How to contribute in other ways
-
-### Questions, Feedback and Suggestions
+### With Questions, Feedback and Suggestions
 
 If you have any questions, feedback or suggestions head on over to [discussions](https://github.com/queen-raae/gatsby-plugin-svg-emoji-favicon/discussions).
 
-### Bugs
+### With Bugs Reports
 
 If you find a bug please open an [issue](https://github.com/queen-raae/gatsby-plugin-svg-emoji-favicon/issues) and/or create a pull request to fix it.
