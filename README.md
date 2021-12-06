@@ -1,25 +1,25 @@
-# @raae/gatsby-plugin-starter
+# @raae/gatsby-plugin-svg-emoji-favicon
 
 > Amazing plugin that solves everything
 
 ## A message from Queen [@raae](https://twitter.com/raae)
 
-Learn how to get the most out of Gatsby and **stay updated** on the plugin by [subscribing](https://queen.raae.codes/emails/?utm_source=readme&utm_campaign=plugin-starter) to emails from yours truly.
+Learn how to get the most out of Gatsby and **stay updated** on the plugin by [subscribing](https://queen.raae.codes/emails/?utm_source=readme&utm_campaign=plugin-svg-emoji-favicon) to emails from yours truly.
 
 ## How to install
 
-`npm install @raae/gatsby-plugin-starter`
+`npm install @raae/gatsby-plugin-svg-emoji-favicon`
 
 or
 
-`yarn add @raae/gatsby-plugin-starter`
+`yarn add @raae/gatsby-plugin-svg-emoji-favicon`
 
 ## How to use
 
 ```
 module.exports = {
   plugins: [
-    `@raae/gatsby-plugin-starter`
+    `@raae/gatsby-plugin-svg-emoji-favicon`
   ],
 }
 ```
@@ -40,7 +40,7 @@ To be able to have both the demo and plugin in the same repo we use [yarn worksp
 
 ### Do your thing
 
-Solve an [issue](https://github.com/queen-raae/gatsby-plugin-starter/issues) or do something else!
+Solve an [issue](https://github.com/queen-raae/gatsby-plugin-svg-emoji-favicon/issues) or do something else!
 
 ### Create a Pull Request
 
@@ -50,8 +50,8 @@ To get your changes merged into the project create a Pull Request from your fork
 
 ### Questions, Feedback and Suggestions
 
-If you have any questions, feedback or suggestions head on over to [discussions](https://github.com/queen-raae/gatsby-plugin-starter/discussions).
+If you have any questions, feedback or suggestions head on over to [discussions](https://github.com/queen-raae/gatsby-plugin-svg-emoji-favicon/discussions).
 
 ### Bugs
 
-If you find a bug please open an [issue](https://github.com/queen-raae/gatsby-plugin-starter/issues) and/or create a pull request to fix it.
+If you find a bug please open an [issue](https://github.com/queen-raae/gatsby-plugin-svg-emoji-favicon/issues) and/or create a pull request to fix it.

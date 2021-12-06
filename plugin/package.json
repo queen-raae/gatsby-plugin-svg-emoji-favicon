@@ -1,5 +1,5 @@
 {
-  "name": "@raae/gatsby-plugin-starter",
+  "name": "@raae/gatsby-plugin-svg-emoji-favicon",
   "version": "1.4.0",
   "author": "@raae",
   "description": "An awsome plugin from @raae that will solve all your problems 🤪",
@@ -16,13 +16,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/queen-raae/gatsby-plugin-starter.git"
+    "url": "git+https://github.com/queen-raae/gatsby-plugin-svg-emoji-favicon.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/queen-raae/gatsby-plugin-starter/issues"
+    "url": "https://github.com/queen-raae/gatsby-plugin-svg-emoji-favicon/issues"
   },
-  "homepage": "https://github.com/queen-raae/gatsby-plugin-starter#readme",
+  "homepage": "https://github.com/queen-raae/gatsby-plugin-svg-emoji-favicon#readme",
   "devDependencies": {},
   "dependencies": {},
   "peerDependencies": {
