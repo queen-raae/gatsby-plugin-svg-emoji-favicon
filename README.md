@@ -1,6 +1,6 @@
 # @raae/gatsby-plugin-svg-emoji-favicon
 
-> Use an emoji as your sites favicon
+> Use an emoji as your site's favicon
 
 ## A message from Queen [@raae](https://twitter.com/raae)
 
