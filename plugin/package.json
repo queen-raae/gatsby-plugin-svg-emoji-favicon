@@ -1,0 +1,31 @@
+{
+  "name": "@raae/gatsby-plugin-starter",
+  "version": "1.4.0",
+  "author": "@raae",
+  "description": "An awsome plugin from @raae that will solve all your problems 🤪",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin"
+  ],
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "postversion": "cp ../README.md ./README.md && cp ../CHANGELOG.md ./CHANGELOG.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/queen-raae/gatsby-plugin-starter.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/queen-raae/gatsby-plugin-starter/issues"
+  },
+  "homepage": "https://github.com/queen-raae/gatsby-plugin-starter#readme",
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {
+    "gatsby": "^3.0.0 || ^4.0.0"
+  }
+}
