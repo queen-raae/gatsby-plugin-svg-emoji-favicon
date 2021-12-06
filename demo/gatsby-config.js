@@ -1,3 +1,10 @@
 module.exports = {
-  plugins: ["@raae/gatsby-plugin-svg-emoji-favicon"],
+  plugins: [
+    {
+      resolve: "@raae/gatsby-plugin-starter",
+      options: {
+        emoji: "🥳",
+      },
+    },
+  ],
 };

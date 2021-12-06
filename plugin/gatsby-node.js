@@ -2,9 +2,6 @@
 
 exports.pluginOptionsSchema = ({ Joi }) => {
   return Joi.object({
-    option1: Joi.string()
-      .valid("unicorn", "pirate")
-      .default("unicorn")
-      .description(`Plugin option 1`),
+    emoji: Joi.string().required().description(`The emoji to use as a favicon`),
   });
 };
