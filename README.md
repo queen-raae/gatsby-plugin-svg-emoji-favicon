@@ -1,10 +1,10 @@
 # @raae/gatsby-plugin-svg-emoji-favicon
 
-> Use an emoji as your site's favicon
+> Use an emoji as your site's svg favicon 🖼
 
 ## A message from Queen [@raae](https://twitter.com/raae)
 
-The plugin uses a trick I learned via [@chriscoyier](https://twitter.com/chriscoyier) on [CSS-Tricks](https://css-tricks.com/emojis-as-favicons/) who got it from [@LeaVerou](https://twitter.com/LeaVerou/status/1241619866475474946).
+The plugin uses a trick I learned via [@chriscoyier](https://twitter.com/chriscoyier) on [CSS-Tricks](https://css-tricks.com/emojis-as-favicons/) who got it from [@LeaVerou](https://twitter.com/LeaVerou/status/1241619866475474946); the emoji is placed inside an svg tag and the svg is used as the favicon.
 
 Learn how to get the most out of Gatsby and **stay updated** on the plugin by [subscribing](https://queen.raae.codes/emails/?utm_source=readme&utm_campaign=plugin-svg-emoji-favicon) to emails from yours truly.
 
@@ -36,6 +36,8 @@ module.exports = {
 ```
 
 ## How to contribute
+
+I love to hear from folks, do not be shy 🎉
 
 ### With Code
 

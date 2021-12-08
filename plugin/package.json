@@ -2,10 +2,13 @@
   "name": "@raae/gatsby-plugin-svg-emoji-favicon",
   "version": "0.1.2",
   "author": "@raae",
-  "description": "An awsome plugin from @raae that will solve all your problems 🤪",
+  "description": "",
   "keywords": [
     "gatsby",
-    "gatsby-plugin"
+    "gatsby-plugin",
+    "favicon",
+    "emoji",
+    "svg"
   ],
   "main": "index.js",
   "publishConfig": {
