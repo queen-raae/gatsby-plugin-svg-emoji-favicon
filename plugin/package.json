@@ -2,7 +2,7 @@
   "name": "@raae/gatsby-plugin-svg-emoji-favicon",
   "version": "0.1.3",
   "author": "@raae",
-  "description": "",
+  "description": "Use an emoji as your site's svg favicon 🖼",
   "keywords": [
     "gatsby",
     "gatsby-plugin",
