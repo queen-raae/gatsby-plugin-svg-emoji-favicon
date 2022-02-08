@@ -1,12 +1,22 @@
 # @raae/gatsby-plugin-svg-emoji-favicon
 
-> Use an emoji as your site's svg favicon 🖼
-
-## A message from Queen [@raae](https://twitter.com/raae)
+_Use an emoji as your site's svg favicon_ 🖼
 
 The plugin uses a trick I learned via [@chriscoyier](https://twitter.com/chriscoyier) on [CSS-Tricks](https://css-tricks.com/emojis-as-favicons/) who got it from [@LeaVerou](https://twitter.com/LeaVerou/status/1241619866475474946); the emoji is placed inside an svg tag and the svg is used as the favicon.
 
-Learn how to get the most out of Gatsby and **stay updated** on the plugin by [subscribing](https://queen.raae.codes/emails/?utm_source=readme&utm_campaign=plugin-svg-emoji-favicon) to emails from yours truly.
+&nbsp;
+
+## A message or two from Queen Raae 👑
+
+### 1-on-1 Emergency Gatsby Call
+
+Are you stuck on a reef in the sharky waters around the Gatsby islands? Check out [1-on-1 Emergency Gatsby Call](https://queen.raae.codes/gatsby-emergency/) with Queen Raae to get friendly advice you can put into action immediately from a seasoned Gatsby developer.
+
+### Stay updated and get the most out of Gatsby
+
+Learn how to get the most out of Gatsby and **stay updated** on the template by [subscribing](https://queen.raae.codes/emails/?utm_source=readme&utm_campaign=svg-emoji-favicon) to daily emails from Queen Raae and Cap'n Ola.
+
+&nbsp;
 
 ## How to install
 
