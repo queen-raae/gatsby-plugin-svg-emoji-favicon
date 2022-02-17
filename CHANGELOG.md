@@ -1,3 +1,5 @@
+## [0.1.5](https://github.com/queen-raae/gatsby-plugin-svg-emoji-favicon/compare/v0.1.4...v0.1.5) (2022-02-17)
+
 ## [0.1.4](https://github.com/queen-raae/gatsby-plugin-svg-emoji-favicon/compare/v0.1.3...v0.1.4) (2022-02-08)
 
 ### Bug Fixes
